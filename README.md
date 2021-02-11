@@ -655,6 +655,7 @@ API | Description | Auth | HTTPS | CORS |
 | [taylor.rest](https://taylor.rest) | REST API for random Taylor Swift quotes | No | Yes | No |
 | [Traitify](https://app.traitify.com/developer) | Assess, collect and analyze Personality | No | Yes | Unknown |
 | [tronalddump.io](https://www.tronalddump.io) | Api & web archive for the things Donald Trump has said | No | Yes | Unknown |
+| [navalny-rest](https://navalny.bonsoirelliot.workers.dev/) | Quotes from Alexey Navalny | No | Yes | Unknown |
 
 **[⬆ Back to Index](#index)**
 ### Photography
